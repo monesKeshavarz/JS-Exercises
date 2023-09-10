@@ -1,0 +1,1 @@
+# Writing a function that searches for a word in a sentence and gives a positive answer if it exists, and gives an error if the wrong value is given to it.

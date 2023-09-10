@@ -1,0 +1,1 @@
+# Writing an object that has the information of a product, for example a product on the DigiKala site, along with two methods, one to add to the shopping cart with empty content and one to remove from the shopping cart with empty content.
