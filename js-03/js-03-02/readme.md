@@ -1,0 +1,1 @@
+# Write a function that converts a sentence with lowercase letters to uppercase.
