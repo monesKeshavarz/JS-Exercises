@@ -1,0 +1,1 @@
+# Writing a function that fills the value of an array with an object containing a random number, a random date, and a random word.
